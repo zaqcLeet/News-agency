@@ -834,3 +834,7 @@ letter-spacing: -0.24px;
 	opacity: 0.4;
 	letter-spacing: -0.28px;
 }
+
+@media (max-width: 1020px) {
+	
+}
